@@ -1,0 +1,21 @@
+# Temporary PowerPoint lock files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Deployment & backup scripts
+deploy_to_github.py
+create_backup.py
+*.zip
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
